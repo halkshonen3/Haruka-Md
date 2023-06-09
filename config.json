@@ -1,6 +1,6 @@
 {
-    "ownerNumber": ["94764497078@s.whatsapp.net","94764497078@s.whatsapp.net"],
-    "ownerName": "SANDARU",
+    "ownerNumber": ["33769549814@s.whatsapp.net","22777053704@s.whatsapp.net"],
+    "ownerName": "SHONEN",
     "instagram" : "https://instagram.com/nicetry.zaa._",
     "botName": "SANDARU MD ",
     "footer": "api.zeeoneofc.xyz",
@@ -11,7 +11,7 @@
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
     "autobio": false,
-    "anticall": true,
+    "anticall": false,
     "autorespond": false,
     "autoblok212": true,
     "autoread": true,
